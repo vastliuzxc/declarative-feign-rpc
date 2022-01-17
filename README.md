@@ -1,1 +1,1 @@
-# declarative-feign-rpc
+# declarative-feign-rpc-parent
